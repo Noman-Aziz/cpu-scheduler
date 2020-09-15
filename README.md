@@ -1,0 +1,2 @@
+# cpu-scheduler
+CPU SCHEDULING SIMULATOR (5 STATE MODEL)
