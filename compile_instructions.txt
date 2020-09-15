@@ -1,0 +1,7 @@
+g++ New.cpp -o New
+g++ Exit.cpp -o Exit
+g++ -pthread -o Running Running.cpp
+g++ -pthread -o Blocked Blocked.cpp
+g++ -pthread -o Ready Ready.cpp
+g++ 5_state_model_simulator.cpp -o 5_state_model_simulator
+./5_state_model_simulator
